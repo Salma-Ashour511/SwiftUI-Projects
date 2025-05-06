@@ -54,7 +54,7 @@ struct ContentView: View {
                 }
             }.navigationTitle("We Split")
         }
-    }ÎÍÇÇÍÍ
+    }
 }
 
 
